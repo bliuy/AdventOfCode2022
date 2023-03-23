@@ -1,0 +1,1 @@
+* Puzzle 14 - Can you implement it using a single collection for both Sand and Rock objects?
